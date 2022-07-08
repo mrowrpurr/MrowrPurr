@@ -38,4 +38,4 @@
 [Button Discord]: https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white&logo=Discord
 [Button YouTube]: https://img.shields.io/youtube/channel/subscribers/UCS8mvo8o60dgPQe9WJRp2qQ?color=C70D2C&label=&logo=YouTube&style=for-the-badge
 [Button Website]: https://img.shields.io/badge/Website-405263?style=for-the-badge&logoColor=white&logo=Dragonframe
-[Button NexusMods]: https://img.shields.io/badge/NexusMods-D4911E?style=for-the-badge&logoColor=white&logo=AppleArcade
+[Button NexusMods]: https://img.shields.io/badge/ＮＥＸＵＳMODS-8197ec?style=for-the-badge&logoColor=white&logo=AppleArcade
