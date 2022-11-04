@@ -2,7 +2,9 @@
 
 ### Mrowr Purr
 
-I'm a Skyrim mod author and video tutorial creator.
+I'm a game mod author and video tutorial creator.
+
+I mostly focus on Skyrim.
 
 📺 Twitch - https://www.twitch.tv/mrowrpurr
 
