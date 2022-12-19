@@ -12,6 +12,4 @@ I mostly focus on Skyrim.
 
 🎮 NexusMods - https://www.nexusmods.com/users/121646123
 
-🌐 Website - https://MrowrPurr.com
-
 🗨️ Discord - https://discord.gg/vzaqMpQgZn
