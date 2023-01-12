@@ -1,4 +1,4 @@
-![Mrowr Purr](Images/background-wide.jpg)
+![Mrowr Purr](https://raw.githubusercontent.com/mrowrpurr/MrowrPurr/main/Images/Greyscale%20Pink%20Landscape%20Background%20-%20Smaller.png)
 
 ### Mrowr Purr
 
