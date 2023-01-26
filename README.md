@@ -6,10 +6,12 @@ I'm a game mod author and video tutorial creator.
 
 I mostly focus on Skyrim.
 
-📺 Twitch - https://www.twitch.tv/MrowrPurr
+🐉 Skyrim.dev - https://skyrim.dev
 
 🎥 YouTube - https://youtube.com/SkyrimScripting
 
 🎮 NexusMods - https://www.nexusmods.com/users/121646123
+
+📺 Twitch - https://www.twitch.tv/MrowrPurr
 
 🗨️ Discord - https://discord.gg/vzaqMpQgZn
