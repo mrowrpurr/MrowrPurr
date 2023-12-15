@@ -15,3 +15,7 @@ I mostly focus on Skyrim.
 📺 Twitch - https://www.twitch.tv/MrowrPurr
 
 🗨️ Discord - https://discord.gg/vzaqMpQgZn
+
+---
+
+Checkout my `C++` libraries at https://github.com/MrowrLib
