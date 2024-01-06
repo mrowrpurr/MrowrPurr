@@ -6,8 +6,6 @@ I'm a game mod author and video tutorial creator.
 
 I mostly focus on Skyrim.
 
-🐉 Skyrim.dev - https://skyrim.dev
-
 🎥 YouTube - https://youtube.com/SkyrimScripting
 
 🎮 NexusMods - https://www.nexusmods.com/users/121646123
